@@ -1,3 +1,5 @@
+![website-designing](https://user-images.githubusercontent.com/101961231/211614377-a8f9801f-4a98-4eab-8f3d-005788038b31.gif)
+
 <h1 align="center">Hi 👋, I'm Shubham Aher</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
